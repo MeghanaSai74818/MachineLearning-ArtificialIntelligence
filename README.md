@@ -9,6 +9,7 @@ Welcome to my GitHub repository! This repository contains a collection of my aca
 
 - Comparative Study of CNN Architectures
 - Customer Segmentation
+- WiseBite
 
 
 ## Comparative Study of CNN Architectures
@@ -18,5 +19,9 @@ Welcome to my GitHub repository! This repository contains a collection of my aca
 ## Customer Segmentation
 
 - Description: In this project, I performed clustering on the Credit Card Dataset using the K-means algorithm. By grouping customers into clusters based on their similarities, I aimed to identify distinct segments within the dataset. After clustering, I applied the ID3 decision tree algorithm to build a classification model and evaluated its performance on the resulting customer clusters. The model's accuracy, precision, recall, and F1 score were calculated to assess its effectiveness in classifying the clusters. By combining clustering and classification techniques, this project aimed to gain insights into customer segmentation and evaluate the clustering solution using the ID3 model.
+
+## WiseBite
+
+- Description: The project involved using Langchain and GPT-3, to create a chatbot for providing nutrition advice to users. This chatbot provides users with valuable guidance on macronutrients, dietary guidelines, and meal planning, catering to their specific needs. To enrich the chatbot's knowledge base, I integrated tools like Wikipedia and a custom vector database tool, utilizing Pinecone for efficient storage and retrieval of embeddings. This integration enhanced the chatbot's ability to retrieve relevant and accurate information, ensuring a more personalized and valuable user experience.
 
 Thank you for visiting my repository! I hope you find the projects interesting and insightful. If you have any questions or feedback, please don't hesitate to contact me. Happy exploring!
